@@ -158,4 +158,3 @@ View the interactive Tableau dashboard here: [SaaS Cohort Retention Analysis](ht
 
 ## Author
 Lynnetta Bonsu — [LinkedIn](https://www.linkedin.com/in/lrbonsu/) | [Tableau Public](https://public.tableau.com/app/profile/lynnetta.bonsu/vizzes) | [GitHub](https://github.com/lrbonsu)
-# cohort-analysis
